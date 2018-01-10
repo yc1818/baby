@@ -30,4 +30,6 @@
 *.exe
 *.out
 *.app
-# Private filesdonotupload.txt
+
+# Temp files
+tempdata.txt
